@@ -1,3 +1,3 @@
-# Linear-Regression
+# For a problem, using different algorithms to realize it
 Linear Regression ExampleCode
-Here is what it is for Linear Regression using Pytorch
+Grandient Descend ExampleCode
